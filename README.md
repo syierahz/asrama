@@ -1,1 +1,2 @@
 # asrama
+# manual
